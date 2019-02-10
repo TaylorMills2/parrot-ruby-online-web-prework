@@ -1,3 +1,3 @@
 # 
-parrot("Squaks")
+parrot("Squawk!")
 
